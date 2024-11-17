@@ -1,0 +1,3 @@
+
+# No external dependencies required for this project.
+# Ensure Python 3.6 or higher is installed.
