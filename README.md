@@ -19,7 +19,7 @@ A Python-based tool to generate `layers.cfg` files for ArmA 3 modding projects. 
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/your-repo-name/layers-cfg-generator.git
+   git clone https://github.com/ykarateke/Layers.cfg-Generator.git
    cd layers-cfg-generator
    ```
 
